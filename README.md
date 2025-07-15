@@ -16,7 +16,7 @@ It helps users organize their daily tasks with priorities, due dates, and real-t
 
 📷 Preview
 
-![App Screenshot](screenshot.png)  
+![App Screenshot](Screenshot.png)  
  
 
 🛠 Tech Stack :
