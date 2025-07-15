@@ -1,4 +1,4 @@
-🌟 Smart Task Manager
+🌟 **Smart Task Manager**
 
 A clean, responsive, and interactive task manager web app built using **HTML**, **CSS**, and **JavaScript**.  
 It helps users organize their daily tasks with priorities, due dates, and real-time reminders.
@@ -8,7 +8,7 @@ It helps users organize their daily tasks with priorities, due dates, and real-t
 [Click here to view the live app](https://smart-task-manager-omega-ten.vercel.app)
 
 
-🚀 Features:
+🚀 **Features**
 
 - 📝 Add tasks with title, due date, time, and priority
 - ✅ Mark tasks as completed (with toast notification)
