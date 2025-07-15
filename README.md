@@ -11,8 +11,7 @@ It helps users organize their daily tasks with priorities, due dates, and real-t
 - 🗂️ Tasks auto-sort based on due time
 - 🔴 Priority highlighting (High/Medium/Low)
 - 🕒 Shows time left or overdue status
-- 🎨 Background image with glassmorphism effect
-- 📱 Responsive & mobile-friendly
+ 
 
 📷 Preview
 
@@ -25,12 +24,6 @@ It helps users organize their daily tasks with priorities, due dates, and real-t
 - JavaScript  
 - LocalStorage (for data persistence)
 
-📁 Project Structure
-┣ 📂 images/
-┃ ┗ image1.jpg
-┣ 📄 index.html
-┣ 📄 style.css
-┣ 📄 script.js
-┣ 📄 README.md
+ 
 
       
