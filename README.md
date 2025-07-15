@@ -26,7 +26,7 @@ It helps users organize their daily tasks with priorities, due dates, and real-t
 
 ## 📷 Preview
 
-![App Screenshot](final.jpg)  
+![App Screenshot](Preview.jpg)  
 > *(Replace with a clearer screenshot if needed)*
 
 ---
